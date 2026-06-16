@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/curso-react-build/static/css/main.e807b942.css",
-    "main.js": "/curso-react-build/static/js/main.f72e22cc.js",
+    "main.js": "/curso-react-build/static/js/main.a41caf76.js",
     "index.html": "/curso-react-build/index.html",
     "main.e807b942.css.map": "/curso-react-build/static/css/main.e807b942.css.map",
-    "main.f72e22cc.js.map": "/curso-react-build/static/js/main.f72e22cc.js.map"
+    "main.a41caf76.js.map": "/curso-react-build/static/js/main.a41caf76.js.map"
   },
   "entrypoints": [
     "static/css/main.e807b942.css",
-    "static/js/main.f72e22cc.js"
+    "static/js/main.a41caf76.js"
   ]
 }
